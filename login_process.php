@@ -13,8 +13,6 @@ $result = $stmt->get_result();
 
 if ($result->num_rows === 1) {
     $user = $result->fetch_assoc();
-
-    // Compare plain text password directly (⚠️ NOT SECURE)
     if ($password === $user['password']) {
         $_SESSION['user_id'] = $user['id'];
         $_SESSION['username'] = $user['username'];
