@@ -25,6 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->close();
         header("Location: signup.php");
         exit();
+        
     }
 
     $stmt->close();
