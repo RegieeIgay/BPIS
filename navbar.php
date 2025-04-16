@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 sticky-top">
   <a class="navbar-brand" href="#">Business Permit Information System</a>
   
   <!-- Toggler for mobile view -->

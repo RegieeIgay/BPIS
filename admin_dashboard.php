@@ -16,7 +16,7 @@
 
   <style>
     body {
-      padding-top: 70px;
+      height: 100%;
     }
     .chart-container {
   position: relative;
