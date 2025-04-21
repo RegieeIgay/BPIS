@@ -9,13 +9,13 @@
       </a>
     </li>
     <li class="nav-item mb-2">
-    <a href="#" class="nav-link text-white d-flex align-items-center">
+    <a href="register_business.php" class="nav-link text-white d-flex align-items-center">
         <i class="fas fa-edit me-2"></i>
         <span>Register Business</span>
     </a>
     </li>
     <li class="nav-item mb-2">
-      <a href="#" class="nav-link text-white">
+      <a href="map.php" class="nav-link text-white">
       <i class="fas fa-map me-2"></i>
       Map View
       </a>
