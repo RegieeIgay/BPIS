@@ -3,7 +3,7 @@
 
   <ul class="nav nav-pills flex-column mb-auto text-start">
     <li class="nav-item mb-2">
-      <a href="#" class="nav-link text-white">
+      <a href="admin_dashboard.php" class="nav-link text-white">
       <i class="fas fa-tachometer-alt me-2"></i>
       Dashboard
       </a>
