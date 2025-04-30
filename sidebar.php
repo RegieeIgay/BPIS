@@ -11,7 +11,7 @@
     <li class="nav-item mb-2">
     <a href="register_business.php" class="nav-link text-white d-flex align-items-center">
         <i class="fas fa-edit me-2"></i>
-        <span>Register Business</span>
+        <span>Register Business</span>  
     </a>
     </li>
     <li class="nav-item mb-2">
