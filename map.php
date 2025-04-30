@@ -101,7 +101,7 @@
         .catch(error => console.error('Error loading location data:', error));
     }
 
-    loadMarkers();
+    loadMarkers(); 
 
     function searchLocations() {
       const searchTerm = document.getElementById('search-bar').value.toLowerCase();
